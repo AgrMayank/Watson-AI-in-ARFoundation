@@ -1,5 +1,12 @@
 # Build an AI Powered AR Character in Unity with AR Foundation
 
+![GitHub issues](https://img.shields.io/github/issues/AgrMayank/Watson-AI-in-ARFoundation?label=Issues&style=flat-square)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/AgrMayank/Watson-AI-in-ARFoundation?label=Pull%20Requests&style=flat-square)
+![GitHub last commit](https://img.shields.io/github/last-commit/AgrMayank/Watson-AI-in-ARFoundation?label=Last%20Commit&style=flat-square)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/AgrMayank/Watson-AI-in-ARFoundation?label=Commit%20Activity&style=flat-square)
+![GitHub All Releases](https://img.shields.io/github/downloads/AgrMayank/Watson-AI-in-ARFoundation/total?label=Downloads&style=flat-square)
+![GitHub repo size](https://img.shields.io/github/repo-size/AgrMayank/Watson-AI-in-ARFoundation?label=Repo%20Size&style=flat-square)
+
 *This pattern was originally published using ARKit and only available on iOS. With Unity introducing AR Foundation, this pattern can now run on either ARKit or ARCore depending on what device you build for.*
 
 In this Code Pattern we will use [Assistant](https://www.ibm.com/watson/developercloud/conversation.html), [Speech-to-Text](https://www.ibm.com/watson/developercloud/speech-to-text.html), and [Text-to-Speech](https://www.ibm.com/watson/developercloud/text-to-speech.html) deployed to an iPhone or an Android phone, using either ARKit or ARCore respectively, to have a voice-powered animated avatar in Unity.
